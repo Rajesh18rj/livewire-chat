@@ -7,3 +7,10 @@ install breeze
     >  php artisan breeze:install
 
 
+# 3 
+
+install livewire
+
+then add livewireStyles and Scripts in layout file (app.layout)
+
+then install npm
