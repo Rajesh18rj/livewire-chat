@@ -6,7 +6,6 @@ install breeze
     > composer require laravel/breeze --dev
     >  php artisan breeze:install
 
-
 # 3 
 
 install livewire
@@ -20,3 +19,8 @@ then install npm
 create chat index
 
     > php artisan make:livewire chat.index
+then create a outline structure in chat index
+
+# 5 
+
+create a avatar component in views/components and paste the code from source code
