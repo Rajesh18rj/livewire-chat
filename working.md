@@ -24,3 +24,11 @@ then create a outline structure in chat index
 # 5 
 
 create a avatar component in views/components and paste the code from source code
+
+# 6 
+
+create livewire component chat-list 
+
+include that in index.. 
+
+and made some changes and tailwind in chat-list
