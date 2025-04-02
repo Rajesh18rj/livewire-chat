@@ -36,3 +36,9 @@ and made some changes and tailwind in chat-list
 # 7 
 
 we are working on chat-list (chat list item)
+
+# 8 
+
+we are creating a new livewire component chat
+
+we are doing here main chat with chat id's -> like this ...  Route::get('/chat/{query}', Chat::class)->name('chat');
