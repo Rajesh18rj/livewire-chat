@@ -32,3 +32,7 @@ create livewire component chat-list
 include that in index.. 
 
 and made some changes and tailwind in chat-list
+
+# 7 
+
+we are working on chat-list (chat list item)
